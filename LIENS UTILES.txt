@@ -1,7 +1,14 @@
-Répertoire...
-https://yeswehack.com/programs
+Ressources des cours:
+https://www.leblogduhacker.fr/ressources-cours-hacking-ethique/
 
-
+Introduction:
+https://www.leblogduhacker.fr/commencez-ici/
 
 Les Formations Certifiantes Cyberini
 https://cyberini.com/catalogue-formation/
+
+Tuto Cracking
+https://cyberini.com/ctf/#tutocracking
+
+Répertoire Bug Bounty et Security Research
+https://yeswehack.com/programs
