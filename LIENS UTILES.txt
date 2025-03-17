@@ -23,3 +23,33 @@ https://yeswehack.com/programs
 ✅ Plan d'apprentissage pour les SYSTÈMES INFORMATIQUES ► https://bit.ly/3wG5L9K
 
 ✅ Plan d'apprentissage pour les COMPÉTENCES ANNEXES ► https://bit.ly/34pz18D
+
+✅ Générer vos honeypots ► https://canarytokens.org/generate
+
+✅ Installer opencanary ► https://github.com/thinkst/opencanary
+
+✅ Votre terminal Linux en ligne sans rien installer ► https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3pRSjJaWUFaRWFCVkpudXhiWENSWkxiS01Jd3xBQ3Jtc0ttekJaS2VBOHRiSFJ2ZzRzaE9pcjJjRUU2VlctUGIxb1NoaXc0dEhIb1lSSlFJeHFScmtvUzFXSVliY1E2ajB4S1p4OTlIX1RNc1h1R2xpdndHZjYyN253dDFqTExqdy1WN2RwOGZ5MkJCc0x5aHByMA&q=https%3A%2F%2Fshell.cloud.google.com%2F%3Fshow%3Dide%252Cterminal&v=gh2DdRjK4BY
+
+✅ Autres projets honeypots ► https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazZaa1dEQTg1bW9ZQkdMeDNkTGM3OWVSZXVuZ3xBQ3Jtc0ttalZ5c1MtZnZvRnEwR1FRbEkzUk5pMnMxOFloRjlkbFZ4aUNDYlFsc3pGZTlaUENVdHpvOFhmMnRudnV6OVpsbVh6R1A1dk9XbUh5dkUtcjdqUno1R0pKeTRZc200aDdPSTRIUnUwNUx4RmRZX05VOA&q=https%3A%2F%2Fgithub.com%2Fparalax%2Fawesome-honeypots&v=gh2DdRjK4BY
+
+✅ Créer votre propre honeypot Windows ►    https://www.youtube.com/watch?v=wJF7wsxjud4&pp=0gcJCR0AztywvtLA
+
+✅ Formation Machine Learning gratuite ► https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWVBRWtreWd1UHFld1ZZaDE4SmZzNU9OZG85QXxBQ3Jtc0tuejlBLUQxaERiSWFQN1JhSC1HM3g5czBJRG5RaGJWbi1XNXN2c1FEYVhFcDVZRXNPY1IzWU9RdXUwWGRqRDRILThGY0lkODh5bERpYkJlcXN6TXByZVpsWkFnRERhUjhRT0NNY25RMlJhenBwYXpkcw&q=https%3A%2F%2Fgithub.com%2Fmicrosoft%2FML-For-Beginners&v=gh2DdRjK4BY
+
+✅ Le papier de recherche original de ChatGPT ► https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazlqY0x0R1hOdlFVbFVCdzRMWmQzcWlTN2xDQXxBQ3Jtc0ttVnRCYUlIVE0xYnhIdENGdHBQbUxiRndEcFJSbHI4NFFMM21obGFiMUF4TEhrMXJ5RDE0Qm42SThEZTA5Z2FmalVkUVEyMlNWWlJ4TWQ3UGVnaFB4WTdXYV9vV3Y3WmlqMGpHelg3akxvemtjOXZPcw&q=https%3A%2F%2Fcdn.openai.com%2Fresearch-covers%2Flanguage-unsupervised%2Flanguage_understanding_paper.pdf&v=gh2DdRjK4BY
+
+✅ Le rôle du Machine learning dans la cybersécurité ► https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFNoZVM2X1o1Um1tSHVkazBNd0I5c1E3N0VFd3xBQ3Jtc0tuOU5WLXROdWVDX0FoSXpVV3VIMlNtbmZGVGpaQUxTQmVOdm1Kc1ozYmRBU0NCTUpOaHJQaFFycnA4YXhyMEpMMFlVMkpKaWFTckxIMGo2Q1ZyUHRKVWY4cHFHOXVUemNQZ0MyQVk5THVxMWdfVDVqbw&q=https%3A%2F%2Fdl.acm.org%2Fdoi%2Ffull%2F10.1145%2F3545574&v=gh2DdRjK4BY
+
+✅ Détection de Malware grâce à l'intelligence artificielle ► https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3ZPX1I5aVZoRnh5QllDSWliMFliRm0wNzBYd3xBQ3Jtc0trcFY3TGt3U1pYekMwYTJMdlJKbVNob1RxcGFYS1RuNUcyZVA1ZG14YXpoRkh4dkE0V01vRnNtQXRsbDhlY1pLMUlNMHlNZTFpSG1TOVlXbWp5YWt6MHo0aFZFRUlLSWI1V0ZGbEtaX3N2c01KX2tLVQ&q=https%3A%2F%2Fieeexplore.ieee.org%2Fabstract%2Fdocument%2F8328749&v=gh2DdRjK4BY
+
+✅ Détection de Phishing grâce à l'IA ► https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2RpSzBQWkZPSHRTRTdrOTMzSDB0ZjVuNXV1UXxBQ3Jtc0tuMkxHUEwyRjljODN0enFkUjh5YkxfX2hyakN0SlhEZkdLVTdVRjRDVk1mSFZEa1lvcWd6X1l4aWdzVTRUY0xyS2hOaUJqMVB6RVRPMXlzY204UUZoclY3eWxWaXlpZ2pSVnNGNjM4YUllbU5EVEkxbw&q=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F8587410&v=gh2DdRjK4BY
+
+✅ OSINT Facebook ► https://www.sowsearch.info/
+
+✅ 1000+ outils d'osint ► https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGNxMktrZ2NuYlA1czhBaWJtc1F5WjdXTGJfUXxBQ3Jtc0tuNW9WTkpkMmtHOUIyQW10UHJNcE5ONGVrWERXYldUTmNFWDQxSXZoUTltSFZFT0F5LTNXV2JmYzBBLUxWbkp1UEtFRHlaVU9SSlhOLU9yS1hGeEZfcE0xVzE0S3Vacng4aWtEWmQ1YS1DN3A5SEVITQ&q=https%3A%2F%2Fcipher387.github.io%2Fosint_stuff_tool_collection%2F&v=gh2DdRjK4BY
+
+✅ Test d'intrusion via l'OSINT ► https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbklfU0RWWWFEQ084LWkxOVVPbGd1QjJ5WWxiZ3xBQ3Jtc0ttYkxJV0ktVWowSXFLczlTbWhOaU5MWHgyUXYxeUxyMlU5SVBDalE2Qnhtd0RiLXh1TUM3QmpnUXJVWEVfT1dpUXhiYTd2Y3RpT1hnT1J1bDdGM2J3amhuTHNxZDJfdWFzcmNZa2NqZjlJaTlDdFJjNA&q=https%3A%2F%2Fgithub.com%2Fanmolksachan%2Fthetimemachine%2F&v=gh2DdRjK4BY
+
+✅ Analyse et visualisation de données pour l'Iot ► https://github.com/netdata/netdata
+
+✅ Outil bannière cookie (RGPD/loi protection des données) ► https://github.com/osano/cookieconsent
